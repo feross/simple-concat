@@ -7,7 +7,7 @@
 [downloads-image]: https://img.shields.io/npm/dm/simple-concat.svg
 [downloads-url]: https://npmjs.org/package/simple-concat
 
-### Super-minimalist version of `concat-stream`. Less than 15 lines!
+### Super-minimalist version of [`concat-stream`](https://github.com/maxogden/concat-stream). Less than 15 lines!
 
 ## install
 
