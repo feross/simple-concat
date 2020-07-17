@@ -1,7 +1,7 @@
 {
   "name": "simple-concat",
   "description": "Super-minimalist version of `concat-stream`. Less than 15 lines!",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Feross Aboukhadijeh",
     "email": "feross@feross.org",
